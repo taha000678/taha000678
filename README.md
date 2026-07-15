@@ -142,15 +142,15 @@ Worked on ESP32, Arduino, and automation-based embedded projects integrating sen
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="[https://github.com/YOUR_USERNAME](https://github.com/taha000678)">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/muhammad-taha-325856311/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="tm7415392@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
