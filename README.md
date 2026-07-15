@@ -18,53 +18,39 @@ I'm a **Computer Engineering student at UET Taxila** with a growing passion for 
 
 I have recently started my journey as a **Chip Design Intern**, where I'm learning the complete digital design flow—from **RTL Design** to **GDSII**. My goal is to develop industry-level expertise in ASIC design and contribute to next-generation semiconductor technologies.
 
-* 🎓 Computer Engineering Undergraduate *(Batch of 2027)*
-* 💼 Chip Design Intern
-* 🌱 Exploring **VLSI Design**, **RTL Design**, and the **RTL-to-GDSII Flow**
-* 🖥️ Passionate about Computer Architecture & Digital System Design
-* 🎯 Aspiring ASIC / Physical Design Engineer
+*  Computer Engineering Undergraduate *(Batch of 2027)*
+*  Chip Design Intern
+*  Exploring **VLSI Design**, **RTL Design**, and the **RTL-to-GDSII Flow**
+*  Passionate about Computer Architecture & Digital System Design
+*  Aspiring ASIC / Physical Design Engineer
 
 ---
 
 ## 💡 Current Learning Journey
+```mermaid
+flowchart TD
+    A["Digital Logic"] --> B["Computer Architecture"]
+    B --> C["Verilog / SystemVerilog"]
+    C --> D["RTL Design"]
+    D --> E["Functional Verification"]
+    E --> F["Logic Synthesis"]
+    F --> G["Floorplanning"]
+    G --> H["Placement"]
+    H --> I["Clock Tree Synthesis"]
+    I --> J["Routing"]
+    J --> K["Static Timing Analysis"]
+    K --> L["GDSII / Tapeout"]
 
-```text
-Digital Logic
-      │
-      ▼
-Computer Architecture
-      │
-      ▼
-Verilog / SystemVerilog
-      │
-      ▼
-RTL Design
-      │
-      ▼
-Functional Verification
-      │
-      ▼
-Synthesis
-      │
-      ▼
-Floorplanning
-      │
-      ▼
-Placement
-      │
-      ▼
-Clock Tree Synthesis
-      │
-      ▼
-Routing
-      │
-      ▼
-Static Timing Analysis
-      │
-      ▼
-GDSII
+    classDef foundation fill:#1f2937,color:#fff,stroke:#3b82f6,stroke-width:2px;
+    classDef design fill:#0f766e,color:#fff,stroke:#14b8a6,stroke-width:2px;
+    classDef physical fill:#7c2d12,color:#fff,stroke:#f97316,stroke-width:2px;
+    classDef final fill:#14532d,color:#fff,stroke:#22c55e,stroke-width:2px;
+
+    class A,B foundation;
+    class C,D,E design;
+    class F,G,H,I,J,K physical;
+    class L final;
 ```
-
 ---
 
 ## 🛠️ Tech Stack
@@ -108,9 +94,9 @@ GDSII
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🖥️ SAP-1 Computer Architecture
+###  SAP-1 Computer Architecture
 
 Complete implementation of the SAP-1 educational processor in Logisim, including:
 
@@ -125,48 +111,32 @@ Complete implementation of the SAP-1 educational processor in Logisim, including
 
 ---
 
-### 📱 Android Development
+###  Android Development
 
 Built native Android applications using Java and Kotlin with modern UI design and API integration.
 
 ---
 
-### ⚡ Embedded Systems & IoT
+###  Embedded Systems & IoT
 
 Worked on ESP32, Arduino, and automation-based embedded projects integrating sensors, controllers, and wireless communication.
 
 ---
 
-## 🎯 2026 Goals
+##  2026 Goals
 
-* ✅ Master Verilog HDL
-* ✅ Learn SystemVerilog
-* ✅ Build a RISC-V Processor
-* ✅ Complete the RTL-to-GDSII Flow
-* ✅ Learn Physical Design Fundamentals
-* ✅ Explore ASIC Verification
-* ✅ Contribute to Open-Source Hardware Projects
-* ✅ Build a strong VLSI portfolio
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
+* Master Verilog HDL
+* Learn SystemVerilog
+* Build a RISC-V Processor
+* Complete the RTL-to-GDSII Flow
+* Learn Physical Design Fundamentals
+* Explore ASIC Verification
+* Contribute to Open-Source Hardware Projects
+* Build a strong VLSI portfolio
 
 ---
+
+
 
 ## 🌐 Connect With Me
 
