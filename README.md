@@ -6,7 +6,7 @@
 
 *"Turning digital logic into silicon, one gate at a time."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Chip+Design+Intern;RTL+Design+Enthusiast;Exploring+VLSI+%26+RTL-to-GDSII;Computer+Architecture+Learner;Building+the+Future+of+Semiconductors" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Chip+Design+Intern;RTL+Design+Enthusiast;Exploring+VLSI+%26+RTL-to-GDSII;Computer+Architecture+Learner;Building+the+Future+of+Semiconductors" />
 
 </div>
 
