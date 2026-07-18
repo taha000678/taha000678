@@ -18,7 +18,7 @@ I'm a **Computer Engineering student at UET Taxila** with a growing passion for 
 
 I have recently started my journey as a **Chip Design Intern**, where I'm learning the complete digital design flow—from **RTL Design** to **GDSII**. My goal is to develop industry-level expertise in ASIC design and contribute to next-generation semiconductor technologies.
 
-*  Computer Engineering Undergraduate *(Batch of 2027)*
+*  Computer Engineering Undergraduate *(Batch of 2023)*
 *  Chip Design Intern
 *  Exploring **VLSI Design**, **RTL Design**, and the **RTL-to-GDSII Flow**
 *  Passionate about Computer Architecture & Digital System Design
